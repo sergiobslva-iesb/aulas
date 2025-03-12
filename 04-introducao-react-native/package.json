@@ -1,0 +1,17 @@
+{
+  "name": "04-introducao-react-native",
+  "version": "1.0.0",
+  "description": "Aula de introdução a react native em sala de aula",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sérgio Silva",
+  "keywords": [],
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
