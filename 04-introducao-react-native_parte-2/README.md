@@ -77,4 +77,4 @@ emulador.
 * O inspector também permite a utilização do **Hot Reloading**, que atualiza o aplicativo em tempo real quando o código é modificado.
 
 ### Imagem arquitetura React Native
-![Arquitetura React Native](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.rocketseat.com.br%2Freact-native-nova-arquitetura%2F&psig=AOvVaw22jmMbm9in-nLZPPe8atvZ&ust=1742079408196000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCQwtXViowDFQAAAAAdAAAAABAE)
+[Arquitetura React Native](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.rocketseat.com.br%2Freact-native-nova-arquitetura%2F&psig=AOvVaw22jmMbm9in-nLZPPe8atvZ&ust=1742079408196000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCQwtXViowDFQAAAAAdAAAAABAE)
